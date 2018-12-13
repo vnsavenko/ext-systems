@@ -1,4 +1,8 @@
 target
 out
 .idea/
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> master
